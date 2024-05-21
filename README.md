@@ -32,12 +32,12 @@
 ---
 
 <div align="left">
-  <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=ericnegron&show_icons=true&locale=en&theme=tokyonight" alt="Stats" /></p>
-  <p><img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ericnegron&theme=tokyonight" alt="Streaks" /></p>
+  <p><img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=ericnegron&show_icons=true&locale=en&theme=tokyonight" alt="Stats" /></p>
+  <p><img align="left" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ericnegron&theme=tokyonight" alt="Streaks" /></p>
 </div>
 <div align="left">
-  <p><a href="https://github.com/ericnegron"><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericnegron&theme=tokyonight" alt="Contributions" height="180em" /></a></p>
-  <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericnegron&langs_count=8&theme=tokyonight" alt="Top Languages" /></p>
+  <p><a href="https://github.com/ericnegron"><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericnegron&theme=tokyonight" alt="Contributions" height="160em" /></a></p>
+  <p><img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericnegron&langs_count=8&theme=tokyonight" alt="Top Languages" /></p>
 </div>
 
 
