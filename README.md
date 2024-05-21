@@ -32,21 +32,21 @@
 ---
 
 ### Recent Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericnegron&repo=Game-Search&theme=tokyonight)](https://github.com/ericnegron/Game-Search)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ericnegron&repo=Game-Search&theme=tokyonight" />
+</a>
 
 
 ----
-
-<div align="left">
-  <p><img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=ericnegron&show_icons=true&rank_icon=github&locale=en&theme=tokyonight" alt="Stats" /></p>
-  <p><img align="left" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ericnegron&theme=tokyonight" alt="Streaks" /></p>
-  <p><a href="https://github.com/ericnegron"><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericnegron&theme=tokyonight" alt="Contributions" height="160em" /></a></p>
-  <p><img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericnegron&langs_count=8&theme=tokyonight" alt="Top Languages" /></p>
-</div>
-
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ericnegron&show_icons=true&theme=tokyonight&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericnegron&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com">
+  <img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ericnegron&theme=tokyonight" alt="Streaks" />
+</a>
 
 
 
