@@ -32,7 +32,7 @@
 ---
 
 ### Recent Projects
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ericnegron/Game-Search">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ericnegron&repo=Game-Search&theme=tokyonight" />
 </a>
 
