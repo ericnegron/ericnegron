@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eric</h1>
+<h1 align="center">Hi, I'm Eric</h1>
 
 <p> I’m a movie-loving, music-playing, dog-walking technical leader with over a decade of experience delivering complex technical products. A creative problem-solver at heart, I am passionate about building performant and accessible human-centric experiences.</p>
 
