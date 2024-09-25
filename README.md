@@ -35,9 +35,9 @@
 <a href="https://github.com/ericnegron/Game-Search">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ericnegron&repo=Game-Search&theme=tokyonight" />
 </a>
-<a href="https://github.com/ericnegron/FetchTakeHome">
+<!-- <a href="https://github.com/ericnegron/FetchTakeHome">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ericnegron&repo=FetchTakeHome&theme=tokyonight" />
-</a>
+</a> -->
 
 ----
 <a href="https://github.com/anuraghazra/github-readme-stats">
